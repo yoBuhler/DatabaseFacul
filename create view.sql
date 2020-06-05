@@ -1,0 +1,2 @@
+CREATE VIEW view_notas_alunos AS
+select notas.valor as Nota, alunos.nome as Aluno, alunos.matricula as Matricula, disciplinas.nome as Disciplina from nota as notas inner join aluno as alunos on alunos.id = notas.aluno inner join disciplina as disciplinas on disciplinas.id = notas.disciplina;
