@@ -49,7 +49,7 @@ insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (203, 108, 2, "
 insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (204, 101, 3, "2011-01-09");
 insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (205, 103, 3, "2011-01-27");
 insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (205, 104, 2, "2011-01-22");
-insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (205, 186, 4, null);
+insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (205, 106, 4, null);
 insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (206, 107, 3, "2011-01-15");
 insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (206, 106, 5, "2011-01-19");
 insert into Avaliacao (cid, fid, estrelas, dataDaCritica) values (207, 107, 5, "2011-01-20");

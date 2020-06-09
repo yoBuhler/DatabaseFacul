@@ -1,0 +1,5 @@
+Link do arquivo no drive:
+https://drive.google.com/file/d/1aTAA7oB1_tLPpHlHBBHXN-2az8gcDH-Z/view?usp=sharing
+
+Link do Git:
+https://github.com/yoBuhler/DatabaseFacul/blob/master/ATIVIDADE_SQL.sql
