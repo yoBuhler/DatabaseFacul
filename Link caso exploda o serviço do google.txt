@@ -1,5 +1,5 @@
 Link do arquivo no drive:
-https://drive.google.com/file/d/1aTAA7oB1_tLPpHlHBBHXN-2az8gcDH-Z/view?usp=sharing
+https://drive.google.com/file/d/1JzMyZbDfj7zQgjT-pe7LuBe_mA5ad4Dk/view?usp=sharing
 
 Link do Git:
-https://github.com/yoBuhler/DatabaseFacul/blob/master/ATIVIDADE_SQL.sql
+https://github.com/yoBuhler/DatabaseFacul/blob/master/AVALIA%C3%87%C3%83O%20DE%20BANCO%20DE%20DADOS-2020-06-16.sql
